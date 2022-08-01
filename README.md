@@ -8,6 +8,7 @@ En el siguiente repositorio se adjuntó las actividades desarrolladas durante el
 estudio de las Asignaturas de **Base de datos avanzada** y **Programacion Avanzada** de la carrera de *Computación* de la [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/)
 
 **El repositorio está organizado de la siguiente manera:**
+
 **- Dos carpetas:**
 1. Base de datos Avanzada: esta carpeta contiene los archivos usados para el preprocesamiento de la base de datos, los scripts SQL de creación y carga de la base de datos, archivos csv de los datos usados, imagenes de los modelos conceptual y lógico, informe final del componente de base de datos.
 2. Programación Avanzada: por otro lado, esta carpeta contiene los notebooks que hicimos en Apache Zeppelin y la página web que realizamos para presentar nuestras consultas hechas en Spark.
