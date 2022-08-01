@@ -4,7 +4,7 @@
 
 - - -
 
-Repositorio que contiene las actividades desarrolladas durante el
+En el siguiete repositorio se adjuntó las actividades desarrolladas durante el desarrollo del proyecto integrador y el
 estudio de las Asignaturas de **Base de datos avanzada** y  **Programacion Avanzada** de la carrera *ciencias 
 de la Computación* de la [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/)
 
